@@ -1,3 +1,5 @@
+// theory : https://www.youtube.com/watch?v=cMaxXISWWHo
+
 #include <iostream>
 using namespace std;
 
